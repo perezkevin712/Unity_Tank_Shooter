@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Unity_Tank_Shooter
 =======
 # Unity_Tank_Shooter
