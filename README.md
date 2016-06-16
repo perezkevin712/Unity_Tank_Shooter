@@ -1,5 +1,6 @@
 
 ###3 Player Tank Shooter Game on Unity<br>
+<b> 3v3 Tank multiplayer game. Last tank standing will lose. Tank with the most kills wins the game. 
 
 <b>Controls are WASD for player 1<b>
 
