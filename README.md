@@ -1,5 +1,5 @@
 
-<b/>3 Player Tank Shooter Game on Unity.<b/>
+###3 Player Tank Shooter Game on Unity<br>
 
 <b>Controls are WASD for player 1<b>
 
